@@ -26,3 +26,15 @@ joint probabilities: p(A,B)
 marginal distribution 边际分布
 
 conditional probability 条件概率
+
+p(A): A的先验概率或边缘概率，因为不考虑任何其他方面的因素
+
+p（B）: B的先验概率或边缘概率，不考虑任何其他因素
+
+p(A|B): A的后验概率，已知B的情况下A的概率
+
+p(B|A): 已知A的情况下B的概率，为B的后验概率
+
+cumulative distribution function 累积分布函数
+
+finite interval 有限区间
